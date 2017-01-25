@@ -18,6 +18,7 @@ public class GitHub {
         // TODO code application logic here
     
     System.out.println("Hello World! My GitHub account name is 'GaponenkoDima'");
+    System.out.println("How is it going?");
     
     }
     
